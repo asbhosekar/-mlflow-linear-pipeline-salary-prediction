@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Zero_to_agentic/mlflow_linear_pipeline/mlruns/369741996626746744
+creation_time: 1759634703479
+experiment_id: '369741996626746744'
+last_update_time: 1759634703479
+lifecycle_stage: active
+name: LinearRegression-Experiment

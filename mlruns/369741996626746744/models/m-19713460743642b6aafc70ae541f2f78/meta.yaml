@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Zero_to_agentic/mlflow_linear_pipeline/mlruns/369741996626746744/models/m-19713460743642b6aafc70ae541f2f78/artifacts
+creation_timestamp: 1759634704116
+experiment_id: '369741996626746744'
+last_updated_timestamp: 1759634717726
+model_id: m-19713460743642b6aafc70ae541f2f78
+model_type: null
+name: model
+source_run_id: bc67f4c948ab49d5a9c24e8f8dfdaae5
+status: 2
+status_message: null

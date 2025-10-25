@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Zero_to_agentic/mlflow_linear_pipeline/mlruns/369741996626746744/bc67f4c948ab49d5a9c24e8f8dfdaae5/artifacts
+end_time: 1759634722617
+entry_point_name: ''
+experiment_id: '369741996626746744'
+lifecycle_stage: active
+run_id: bc67f4c948ab49d5a9c24e8f8dfdaae5
+run_name: train_linear_20251005032503
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759634703824
+status: 3
+tags: []
+user_id: asbho

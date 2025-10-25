@@ -1,0 +1,14 @@
+name: mlflow-linear-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - pandas
+    - numpy
+    - scikit-learn
+    - mlflow
+    - fastapi
+    - uvicorn[standard]
+    - pydantic

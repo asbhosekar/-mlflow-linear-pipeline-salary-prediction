@@ -1,0 +1,13 @@
+name: LinearRegression-MLflow
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      data_path: {type: str, default: "sample_input_for_regression.csv"}
+      target_col: {type: str, default: ""}
+      model_type: {type: str, default: "ridge"}
+      tune: {type: bool, default: True}
+    command: >
+      python train.py --data-path {data_path} --target {target_col} --model-type {model_type} {--tune if [tune]}
